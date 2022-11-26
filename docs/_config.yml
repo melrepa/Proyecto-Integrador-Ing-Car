@@ -1,0 +1,53 @@
+remote_theme: chrisrhymes/bulma-clean-theme
+
+# Site Settings
+lang: es
+title: Feminicidios y desapariciones en México.
+tagline: MCD-UNISON 
+email: melrepa7@hotmail.com
+description: Página del proyecto integrador de la asignatura Ingeniería de Características de la UNISON. Se aborda el proceso de descarga, limpieza y representación gráfica de datos para contar la historia "Cuando se comete un feminicidio, ¿la víctima ha sido reportada como desaparecida anteriormente?"
+baseurl: "/"
+url: "https://github.com/melrepa/Proyecto-Integrador-Ing-Car"
+permalink: pretty
+favicon: https://github.com/melrepa/Proyecto-Integrador-Ing-Car/raw/main/docs/imagenes/favicon.ico
+#gh_sponsor: juliowaissman
+#hide_share_buttons: true
+#theme_color: '#eeeeee'
+#fixed_navbar: top
+footer_menu: footer
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+#google_analytics: UA-code-here
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: false
+
+markdown: kramdown
+highlighter: rouge
