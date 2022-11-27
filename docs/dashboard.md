@@ -11,6 +11,6 @@ show_sidebar: false
 
 
 <tableau-viz id="tableauViz"       
-  src='https://public.tableau.com/views/Superstore_24/Overview'      
+  src='https://public.tableau.com/app/profile/devesh.pratap.singh/viz/UttarPradeshEnergyProfile/Dashboard1'      
   device="phone" toolbar="bottom" hide-tabs>
 </tableau-viz>
