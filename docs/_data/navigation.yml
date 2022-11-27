@@ -3,7 +3,7 @@
 - name: Data info
   link: /datainfo/
 - name: Dashboard
-  link: /Dashboard/    
+  link: /dashboard/    
 - name: Créditos
   link: /creditos/  
   #dropdown:
