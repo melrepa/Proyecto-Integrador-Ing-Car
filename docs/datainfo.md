@@ -16,6 +16,6 @@ Para poder hacer una comparación justa, se limitaron los datos a los registros 
 Se deja también a disposición el script de python que realiza la extracción desde la fuente, limpieza y armonización en la siguiente [liga]().
 
 El análisis exploratorio de datos puede ser localizado [aquí](https://github.com/melrepa/MCD_IngCaracteristicas/blob/main/Proyecto%202/Proyecto2_MelissaReyesPaz.ipynb). 
-Así como un tratamiento completo de los datos en este [aquí]().
+Así como un tratamiento completo de los datos [aquí]().
 
 Para ver los parámetros que dieron origen a este trabajo, estan disponibles las instrucciones del proyecto en [esta](https://mcd-unison.github.io/ing-caract/proyecto4/) liga, así como la [página del curso](https://mcd-unison.github.io/ing-caract/) de Ingeniería de Características.
