@@ -31,5 +31,5 @@ Dashboard realizado con la plataforma [Tableau Public](https://public.tableau.co
 # Notebooks con análisis de información.
 
 * [Script de recolección y limpieza de datos]().
-* [Notebook con análisis exploratorio de datos](https://github.com/melrepa/MCD_IngCaracteristicas/blob/main/Proyecto%202/Proyecto2_MelissaReyesPaz.ipynb).
-* [Notebook con análisis integrador de los datos y armonización de las variables]().
+* [Notebook con análisis exploratorio de datos]([https://github.com/melrepa/MCD_IngCaracteristicas/blob/main/Proyecto%202/Proyecto2_MelissaReyesPaz.ipynb](https://colab.research.google.com/drive/1MPlpiCCS-ka-G1-arWt77RyWXSzYEQTh?usp=sharing)).
+* [Notebook con análisis integrador de los datos y armonización de las variables](https://colab.research.google.com/drive/1V3kLgTVj-wWBp3E4ReOSpE5cS75Gj565?usp=sharing).
