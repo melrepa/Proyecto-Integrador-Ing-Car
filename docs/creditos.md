@@ -30,7 +30,7 @@ Dashboard realizado con la plataforma [Tableau Public](https://public.tableau.co
 
 # Notebooks con análisis de información.
 
-* [Script de recolección y limpieza de datos]().
+* [Script de recolección y limpieza de datos](https://github.com/melrepa/Proyecto-Integrador-Ing-Car/blob/main/script_mrp.py).
 * [Notebook con análisis exploratorio de datos](https://colab.research.google.com/drive/1MPlpiCCS-ka-G1-arWt77RyWXSzYEQTh?usp=sharing).
 * [Notebook con análisis integrador de los datos y armonización de las variables](https://colab.research.google.com/drive/1V3kLgTVj-wWBp3E4ReOSpE5cS75Gj565?usp=sharing).
 * [Datos finales utilizados](https://github.com/melrepa/Proyecto-Integrador-Ing-Car/blob/main/femin-desap.csv).
