@@ -308,6 +308,15 @@ FinalData = FinalData.rename(columns ={'Total':'TotalFeminicidios'})
 FinalDatast = FinalData.groupby(by = ['Entidad']).sum().reset_index()
 
 
+FinalData = FinalData.replace('Coahuila de Zaragoza','Coahuila')
+FinalData = FinalData.replace('Michoacán de Ocampo','Michoacán')
+FinalData = FinalData.replace('Veracruz de Ignacio de la Llave','Veracruz')
+
+
+FinalDatast = FinalDatast.replace('Coahuila de Zaragoza','Coahuila')
+FinalDatast = FinalDatast.replace('Michoacán de Ocampo','Michoacán')
+FinalDatast = FinalDatast.replace('Veracruz de Ignacio de la Llave','Veracruz')
+
 
 print("#-----------------------Proceso terminado, se crea archivo csv-----------------------#")
 
