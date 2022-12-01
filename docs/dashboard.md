@@ -11,6 +11,6 @@ show_sidebar: false
 
 
 <tableau-viz id="tableauViz"       
-  src='https://public.tableau.com/app/profile/devesh.pratap.singh/viz/UttarPradeshEnergyProfile/Dashboard1'      
+  src='https://public.tableau.com/app/profile/melissa.reyes.paz/viz/Feminicidios_desaparecidas/Dashboard1'      
   device="phone" toolbar="bottom" hide-tabs>
 </tableau-viz>
