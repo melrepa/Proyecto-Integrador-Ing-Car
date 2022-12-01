@@ -9,7 +9,7 @@ show_sidebar: false
 
 # Dashbord.
 
-Dashboard realizado con la plataforma [Tableau Public](https://public.tableau.com/app/discover).
+Dashboard realizado con la plataforma [Tableau Public](https://public.tableau.com/app/discover). Está disponible [aquí](https://public.tableau.com/views/Feminicidios_desaparecidas/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 # Fuentes de datos utilizadas.
 
