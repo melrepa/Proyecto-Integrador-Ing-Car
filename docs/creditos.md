@@ -9,7 +9,7 @@ show_sidebar: false
 
 # Dashbord.
 
-Dashboard realizado con la plataforma [Tableau Public](https://public.tableau.com/app/discover). Está disponible [aquí](https://public.tableau.com/views/Feminicidios_desaparecidas/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+Dashboard realizado con la plataforma [Tableau Public](https://public.tableau.com/app/discover). Está disponible [aquí](https://public.tableau.com/views/Feminicidios_desaparecidas/Fem-Desap?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 # Fuentes de datos utilizadas.
 
@@ -23,6 +23,7 @@ Dashboard realizado con la plataforma [Tableau Public](https://public.tableau.co
 * [Fondo de apartado "Data Info"](https://raw.githubusercontent.com/melrepa/Proyecto-Integrador-Ing-Car/main/docs/imagenes/EQtk468U4AcmDhE.png).
 * [Fondo de "Dashboard"](https://raw.githubusercontent.com/melrepa/Proyecto-Integrador-Ing-Car/main/docs/imagenes/feminicidio-2.jpg).
 * [Fondo de apartado "Créditos"](https://raw.githubusercontent.com/melrepa/Proyecto-Integrador-Ing-Car/main/docs/imagenes/01-1.png).
+* [Imagen dashboard]().
 
 # Repositorio.
 
