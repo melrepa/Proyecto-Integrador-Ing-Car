@@ -13,7 +13,7 @@ En los Datos Abiertos de incidencia Delictiva hay una sección de feminicidios l
 
 Para poder hacer una comparación justa, se limitaron los datos a los registros de ambas fuentes del 2015 a 2018 y, posteriormente se hizo una conciliación de las tablas para trabajar con solamente una. Los datos finales están disponibles [aquí](https://github.com/melrepa/Proyecto-Integrador-Ing-Car/blob/main/femin-desap.csv) y su [diccionario](https://github.com/melrepa/Proyecto-Integrador-Ing-Car/blob/main/Diccionario.xlsx).
 
-Se deja también a disposición el script de python que realiza la extracción desde la fuente, limpieza y armonización en la siguiente [liga]().
+Se deja también a disposición el script de python que realiza la extracción desde la fuente, limpieza y armonización en la siguiente [liga](https://github.com/melrepa/Proyecto-Integrador-Ing-Car/blob/main/script_mrp.py).
 
 El análisis exploratorio de datos puede ser localizado [aquí](https://colab.research.google.com/drive/1MPlpiCCS-ka-G1-arWt77RyWXSzYEQTh?usp=sharing). 
 Así como un tratamiento completo de los datos [aquí](https://colab.research.google.com/drive/1V3kLgTVj-wWBp3E4ReOSpE5cS75Gj565?usp=sharing).
