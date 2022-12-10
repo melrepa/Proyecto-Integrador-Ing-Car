@@ -1,11 +1,6 @@
-- name: About me
-  link: /aboutme/
-- name: Data info
+- name: Información de los datos
   link: /datainfo/
 - name: Dashboard
   link: /dashboard/    
 - name: Créditos
   link: /creditos/  
-  #dropdown:
-  #  - name: Introducción 
-  #    link: /intro/
