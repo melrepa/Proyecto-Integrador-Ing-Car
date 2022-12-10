@@ -7,7 +7,6 @@ hero_darken: true
 show_sidebar: false
 ---
 
-# ¡Bienvenido!
 
 En esta página se puede encontrar toda la información sobre el proyecto de recolección y visualización de datos de feminicidios y mujeres desaparecidas en México.
 
